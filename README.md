@@ -42,6 +42,8 @@ Dari statement diatas, kita diminta untuk menginput nama, nim, nilai tugas, nila
 
 ![Screenshot (129)](https://user-images.githubusercontent.com/115516632/202841738-10ccd667-e181-41e2-8c2a-8c68e6fee2ee.png)
 
+Untuk keluar dari perulangan, kita hanya perlu menginputkan t apabila diminta pada saat program dijalankan. t akan membuat variabel ulang = True menjadi ulang = False yang mana akan menghentikan perulangan yang terjadi.
+
 4. Terakhir mencetak hasil dari program yang telah dibuat
 
 ![Screenshot (131)](https://user-images.githubusercontent.com/115516632/202843285-c9a6719b-485d-469e-af7f-9417903b67ac.png)
