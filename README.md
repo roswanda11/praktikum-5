@@ -50,7 +50,7 @@ Untuk keluar dari perulangan, kita hanya perlu menginputkan t apabila diminta pa
 
 ![Screenshot (132)](https://user-images.githubusercontent.com/115516632/202843433-ba8756b6-3fd4-4482-83dd-9af5bbe45291.png)
 
-# Hasil Flowchart
+# Hasil Flowchart Praktikum 5
 
-![Screenshot (137)](https://user-images.githubusercontent.com/115516632/202845273-6555801c-5e87-4a91-8be1-303b45ee1c10.png)
+![Screenshot (139)](https://user-images.githubusercontent.com/115516632/202846604-b9aabd76-7c5d-44ec-b64c-849747f1d7fe.png)
 
