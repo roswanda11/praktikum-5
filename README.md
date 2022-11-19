@@ -50,4 +50,5 @@ Dari statement diatas, kita diminta untuk menginput nama, nim, nilai tugas, nila
 
 # Hasil Flowchart
 
+![Screenshot (137)](https://user-images.githubusercontent.com/115516632/202845273-6555801c-5e87-4a91-8be1-303b45ee1c10.png)
 
